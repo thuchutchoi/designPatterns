@@ -1,0 +1,11 @@
+learning/target/classes/design/learning/App.class
+learning/target/classes/design/strategy/interfaces/Duck.class
+learning/target/classes/design/strategy/interfaces/Flyable.class
+learning/target/classes/design/strategy/interfaces/MallardDuck.class
+learning/target/classes/design/strategy/interfaces/ModelDuck.class
+learning/target/classes/design/strategy/interfaces/Quackable.class
+learning/target/classes/design/strategy/interfaces/RedheadDuck.class
+learning/target/classes/design/strategy/interfaces/RubberDuck.class
+learning/target/classes/design/strategy/interfaces/TestMain.class
+learning/target/classes/design/strategy/nomal/Duck.class
+learning/target/classes/design/strategy/nomal/TestMain.class
