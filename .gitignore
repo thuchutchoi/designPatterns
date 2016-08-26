@@ -9,3 +9,8 @@ learning/target/classes/design/strategy/interfaces/RubberDuck.class
 learning/target/classes/design/strategy/interfaces/TestMain.class
 learning/target/classes/design/strategy/nomal/Duck.class
 learning/target/classes/design/strategy/nomal/TestMain.class
+learning/.project
+learning/.gitignore
+learning/.settings/org.eclipse.core.resources.prefs
+learning/.settings/org.eclipse.jdt.core.prefs
+learning/.settings/org.eclipse.m2e.core.prefs
